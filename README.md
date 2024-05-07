@@ -1,4 +1,4 @@
-<h1 align="center"> Cardápio - Churrascaria</h1>
+<h1 align="center"> StarMovie - API</h1>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
