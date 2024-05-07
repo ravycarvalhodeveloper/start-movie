@@ -14,7 +14,7 @@
 <br>
 
 <p align="center">
-  <img alt="https://media.licdn.com/dms/image/D4D22AQGEReF6wD4z6w/feedshare-shrink_2048_1536/0/1715045564275?e=1718236800&v=beta&t=vuaCRG8gSKyLDG0ufNqBgZd4vEeAiXcvIgFFc_3fQe8" width="100%">
+  <img alt="Imagem do projeto" src="./projeto-star-movie.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
